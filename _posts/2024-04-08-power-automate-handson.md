@@ -1,6 +1,6 @@
 ---
 title: «Power Automate로 업무 자동화하기» 핸즈온
-date: 2024-10-22 18:20:00 +/-TTTT
+date: 2024-04-08 18:20:00 +/-TTTT
 categories: [Microsoft Learn Student Ambassadors]
 tags: [mlsa, powerautomate, microsoft]     # TAG names should always be lowercase
 description: Power Automate를 사용한 핸즈온 내용을 정리합니다!
