@@ -1,11 +1,12 @@
 ---
 title: JPA 영속화 순서 변경 - Dirty Checking과 @DynamicUpdate 사용
 date: 2024-06-24 18:20:00 +/-TTTT
-categories: [Study, Spring]
+categories: [Spring, Spring Data JPA]
 tags: [jpa, dirty-checking, dynamic-update, spring, springboot]     # TAG names should always be lowercase
 ---
 
 > Dirty Checking과 관련된 내용을 복습하며 영속화 순서에 대해 궁금했던 것들, 그리고 실험했던 기록을 작성합니다.
+{: .prompt-info}
 
 ## 강의 내용
 
@@ -81,6 +82,7 @@ System.out.println("=========");
 
 > 영속성 컨텍스트엔 1차 캐시가 있고, 이 안엔 ID, Entity, 스냅샷이 저장되어 있음.  
 > 이 때, **스냅샷은 DB에서 값을 읽어왔을 때 (영속성 컨텍스트에 들어왔을 때)**의 상태를 저장해둔 것
+{: .prompt-info}
 
 persist() 할 때 (영속성 컨텍스트에 등록할 때) Child에 연관된 Parent는 영속성 컨텍스트에도 등록이 되어 있지 않고, DB에도 등록되어 있지 않음.
 

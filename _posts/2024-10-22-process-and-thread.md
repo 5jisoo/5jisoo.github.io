@@ -1,7 +1,7 @@
 ---
 title: 프로세스와 스레드
 date: 2024-10-22 18:20:00 +/-TTTT
-categories: [Study, Java]
+categories: [Java, Thread]
 tags: [os, process, thread]     # TAG names should always be lowercase
 description: 멀티태스킹과 멀티프로세싱의 개념을 정리합니다.
 ---
