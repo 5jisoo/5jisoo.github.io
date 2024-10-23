@@ -3,7 +3,6 @@ title: 프로세스와 스레드
 date: 2024-10-22 18:20:00 +/-TTTT
 categories: [Java, Thread]
 tags: [os, process, thread]     # TAG names should always be lowercase
-description: 멀티태스킹과 멀티프로세싱의 개념을 정리합니다.
 ---
 
 # 멀티태스킹과 멀티프로세싱
@@ -174,3 +173,9 @@ CPU 코어가 2개일때는 **물리적**으로 "완전히" 동시에 2개의 �
 
 이런 과정을 **컨텍스트 스위칭**이라고 한다.
 
+---
+
+<br>
+
+> 이 포스트는 ["김영한의 실전 자바 - 고급 1편, 멀티스레드와 동시성"](https://www.inflearn.com/course/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B3%A0%EA%B8%89-1) 강의를 듣고 작성하였습니다!
+{: .prompt-info}
