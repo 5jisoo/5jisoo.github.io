@@ -124,7 +124,7 @@ INFO [12-13|19:00:41.038] Exported existing genesis block
 ### Genesis Block 생성하기
 
 ```shell
-% geth --datadir {경로} init {json 파일 위치}
+% geth --datadir {경로} init {경로/파일이름.json}
 ```
 
 ### Ethereum 실행하기
