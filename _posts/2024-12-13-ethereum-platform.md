@@ -31,11 +31,11 @@ math: true
     </tr>
     <tr>
         <td>
-            <img width="400" src="/assets/img/2024-12-13-ethereum-platform/1.png"><br>
+            <img alt="img" width="400" src="/assets/img/2024-12-13-ethereum-platform/1.png"><br>
             <b>Ropsten - Test network</b> 로 설정
         </td>
         <td>
-            <img width="400" src="/assets/img/2024-12-13-ethereum-platform/1.png"><br>
+            <img alt="img" width="400" src="/assets/img/2024-12-13-ethereum-platform/1.png"><br>
             <b>Fast</b> 또는 <b>Full</b> 로 설정
         </td>
     </tr>

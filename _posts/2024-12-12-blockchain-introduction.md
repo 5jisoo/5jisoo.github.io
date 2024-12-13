@@ -158,7 +158,7 @@ _은행은 개인키와 수표의 세부내용으로 생성된 전자서명으�
 <table>
     <tr>
         <td>
-        <img width="400" src="/assets/img/2024-12-12-blockchain-introduction/9.png">
+        <img width="400" alt="img" src="/assets/img/2024-12-12-blockchain-introduction/9.png">
         </td>
         <td>
             <ul>
@@ -293,7 +293,7 @@ CPU를 많이 사용하고 에너지를 많이 사용하여 경제적으로도 �
 <table>
     <tr>
         <td>
-        <img width="400" src="/assets/img/2024-12-12-blockchain-introduction/12.png">
+        <img width="400" alt="img" src="/assets/img/2024-12-12-blockchain-introduction/12.png">
         </td>
         <td>
             <ul>
@@ -327,7 +327,7 @@ CPU를 많이 사용하고 에너지를 많이 사용하여 경제적으로도 �
 <table>
     <tr>
         <td>
-        <img width="400" src="/assets/img/2024-12-12-blockchain-introduction/13.png">
+        <img width="400" alt="img" src="/assets/img/2024-12-12-blockchain-introduction/13.png">
         </td>
         <td>
             <ul>
@@ -390,11 +390,11 @@ _이더리움의 발전된 블록 헤더_
 <table>
     <tr>
         <td>
-        <img width="400" src="/assets/img/2024-12-12-blockchain-introduction/14-1.png"> <br>
+        <img alt="img" width="400" src="/assets/img/2024-12-12-blockchain-introduction/14-1.png"> <br>
         트라이 구조
         </td>
         <td>
-        <img width="400" src="/assets/img/2024-12-12-blockchain-introduction/13.png"><br>
+        <img alt="img" width="400" src="/assets/img/2024-12-12-blockchain-introduction/13.png"><br>
         머클 트리
         </td>
     </tr>
