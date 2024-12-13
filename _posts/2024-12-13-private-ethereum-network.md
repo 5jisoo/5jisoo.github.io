@@ -24,6 +24,11 @@ math: true
 
 ### Genesis Block을 위한 설정
 
+> **제네시스 블록**이란? <br>
+> 블록체인에서 첫번째로 생성된 블록을 말합니다. <br>
+> private network를 만들기 위해서는 네트워크를 시작하는 블록에 대한 정보가 필요하고, 이때 시작하는 블록이 제네시스 블록!
+{: .prompt-info}
+
 ```shell
 % puppeth
 ```
