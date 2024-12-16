@@ -4,6 +4,9 @@ date: 2024-12-13 20:42:00 +/-TTTT
 categories: [Security, Blockchain]
 tags: [security, blockchain, geth]
 math: true
+image:
+  path: /assets/img/2024-12-13-geth-command/0.png
+  alt: <Geth 기본 명령어> 썸네일
 ---
 
 ## Ethereum 실행하기

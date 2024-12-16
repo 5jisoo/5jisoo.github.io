@@ -3,6 +3,9 @@ title: 탈중앙화 앱(Dapp)에 대하여
 date: 2024-12-12 11:27:00 +/-TTTT
 categories: [Security, Blockchain]
 tags: [security, blockchain, dapp]     # TAG names should always be lowercase
+image:
+  path: /assets/img/2024-12-12-dapp-introduction/0.png
+  alt: <탈중앙화 앱(Dapp)에 대하여> 썸네일
 ---
 
 # 디앱이란?

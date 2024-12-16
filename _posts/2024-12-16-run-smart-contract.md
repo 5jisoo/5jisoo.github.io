@@ -4,6 +4,9 @@ date: 2024-12-16 12:22:00 +/-TTTT
 categories: [Security, Blockchain]
 tags: [security, blockchain, geth, ethereum, smart-contract, troubleshooting]
 math: true
+image:
+  path: /assets/img/2024-12-16-run-smart-contract/0.png
+  alt: <스마트 컨트랙트 실행하기> 썸네일
 ---
 
 ## Solidity Compiler 설치하기

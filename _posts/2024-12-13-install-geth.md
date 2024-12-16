@@ -4,6 +4,9 @@ date: 2024-12-13 17:36:00 +/-TTTT
 categories: [Security, Blockchain]
 tags: [security, blockchain, geth, ethereum, dapp]
 math: true
+image:
+  path: /assets/img/2024-12-13-install-geth/0.png
+  alt: <Geth 설치> 썸네일
 ---
 
 ## 블록체인과 스마트 컨트랙트
