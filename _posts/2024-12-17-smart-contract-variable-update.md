@@ -4,7 +4,16 @@ date: 2024-12-17 10:04:00 +/-TTTT
 categories: [Security, Blockchain]
 tags: [security, blockchain, geth, ethereum, solidity]
 math: true
+image:
+  path: /assets/img/2024-12-17-smart-contract-variable-update/1.png
+  alt: <스마트 컨트랙트 변수 업데이트> 썸네일
 ---
+
+## 작업 환경
+
+- masOS M1
+- Geth Version: 1.10.17-stable
+- Solidity Version: 0.8.19+commit.7dd6d404.Emscripten.clang
 
 ## 스마트 컨트랙트 작성하기
 
@@ -13,9 +22,9 @@ math: true
 - count를 반환하는 `showCount()` 읽기 (view) 함수
 
 ```
-// SPDX-License-Identifier : UNLICENSED
+// SPDX-License-Identifier: UNLICENSED
 
-pragma solidity 0.4.24;
+pragma solidity 0.8.19;
 
 contract number {
     int8 private count = 0;
@@ -248,3 +257,27 @@ INFO [12-17|11:14:54.745] Submitted transaction                    fullhash=0xa2
 > ni.showCount.call()
 12
 ```
+
+![img](/assets/img/2024-12-17-smart-contract-variable-update/0.png){: w="700" }
+_변수 변경 완료!_
+
+## 블록 연결 상태 확인하기
+
+만들어진 블록이 블록체인에 연결되었는지 어떻게 확인할까?
+
+먼저 트랜잭션이 실행되고 난 뒤, `eth.getTransaction()`을 통해 트랜잭션 정보를 확인하면?
+
+다음과 같이 `blockHash`값과 `blockNumber`값이 `null`로 표기되어있는 것을 확인할 수 있다.
+
+![img](/assets/img/2024-12-17-smart-contract-variable-update/1.png){: w="700" }
+
+채굴을 진행하고 나면?
+
+```shell
+> miner.start()
+> miner.stop()
+```
+
+다음과 같이 `blockHash`값과 `blockNumber`값을 확인할 수 있고, 또한 increase() 함수가 적용되어 `ni.showCount.call()`를 실행하였을 때 20이 더해진 32가 출력되는 것을 확인할 수 있다.
+
+![img](/assets/img/2024-12-17-smart-contract-variable-update/2.png){: w="700" }
