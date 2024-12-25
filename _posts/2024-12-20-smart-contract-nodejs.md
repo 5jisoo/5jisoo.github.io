@@ -1,7 +1,7 @@
 ---
 title: Node.js에서 스마트 컨트랙트를 블록체인에 입력하기
 date: 2024-12-20 9:51:00 +/-TTTT
-categories: [Security, Blockchain]
+categories: [Security, Ethereum Basics]
 tags: [security, blockchain, ethereum, solidity, nodejs]
 math: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Geth 기본 명령어
 date: 2024-12-13 20:42:00 +/-TTTT
-categories: [Security, Blockchain]
+categories: [Security, Ethereum Basics]
 tags: [security, blockchain, geth]
 math: true
 image:

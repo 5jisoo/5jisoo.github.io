@@ -1,7 +1,7 @@
 ---
 title: 이더리움 플랫폼
 date: 2024-12-13 14:01:00 +/-TTTT
-categories: [Security, Blockchain]
+categories: [Security, Building Ethereum Dapps]
 tags: [security, blockchain, ethereum, dapp]     # TAG names should always be lowercase
 math: true
 ---

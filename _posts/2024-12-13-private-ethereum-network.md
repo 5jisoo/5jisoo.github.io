@@ -1,7 +1,7 @@
 ---
 title: 사설 Ethereum 네트워크 생성하기
 date: 2024-12-13 18:40:00 +/-TTTT
-categories: [Security, Blockchain]
+categories: [Security, Ethereum Basics]
 tags: [security, blockchain, geth, ethereum]
 math: true
 ---

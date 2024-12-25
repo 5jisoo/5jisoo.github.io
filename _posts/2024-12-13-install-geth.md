@@ -1,7 +1,7 @@
 ---
 title: Geth 설치
 date: 2024-12-13 17:36:00 +/-TTTT
-categories: [Security, Blockchain]
+categories: [Security, Ethereum Basics]
 tags: [security, blockchain, geth, ethereum, dapp]
 math: true
 image:

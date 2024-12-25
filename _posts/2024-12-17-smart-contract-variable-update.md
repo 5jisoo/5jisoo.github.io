@@ -1,7 +1,7 @@
 ---
 title: 스마트 컨트랙트 변수 업데이트
 date: 2024-12-17 10:04:00 +/-TTTT
-categories: [Security, Blockchain]
+categories: [Security, Ethereum Basics]
 tags: [security, blockchain, geth, ethereum, solidity]
 math: true
 image:

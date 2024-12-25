@@ -1,7 +1,7 @@
 ---
 title: 블록체인 이해하기
 date: 2024-12-12 16:07:00 +/-TTTT
-categories: [Security, Blockchain]
+categories: [Security, Building Ethereum Dapps]
 tags: [security, blockchain, ethereum]     # TAG names should always be lowercase
 math: true
 ---

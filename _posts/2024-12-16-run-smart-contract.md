@@ -1,7 +1,7 @@
 ---
 title: 스마트 컨트랙트 실행하기
 date: 2024-12-16 12:22:00 +/-TTTT
-categories: [Security, Blockchain]
+categories: [Security, Ethereum Basics]
 tags: [security, blockchain, geth, ethereum, smart-contract, troubleshooting]
 math: true
 image:
