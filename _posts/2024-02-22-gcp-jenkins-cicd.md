@@ -170,7 +170,7 @@ Continue 버튼을 누르면 다음과 같은 페이지로 넘어가게 되는�
 
 **여기서는 꼭 관리자 유저를 생성**해주고 save and continue를 눌러주자.
 
--   skip and continue as admin을 선택하면 나중에 추가적인 멤버 설정이 필요하다. (필자도 딱히 알고 싶지 않았음..🥲)
+-   skip and continue as admin을 선택하면 나중에 추가적인 멤버 설정이 필요하다. (저도 딱히 알고 싶지 않았음..🥲)
 
 ![img](/assets/img/2024-02-22-gcp-jenkins-cicd/8.png){: w="500" }
 
@@ -487,7 +487,7 @@ $ docker restart jenkins
 
 아래 명령어를 작성하여 jdk를 설치해주자.
 
-참고로 필자의 프로젝트에서는 java 17을 사용하여 17 버전을 설치해주었는데, 이건 프로젝트에 맞게 설치해주면 된다.
+참고로 저의 프로젝트에서는 java 17을 사용하여 17 버전을 설치해주었는데, 이건 프로젝트에 맞게 설치해주면 된다.
 
 ```shell
 $ sudo apt update

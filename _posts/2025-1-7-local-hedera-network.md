@@ -163,7 +163,7 @@ node.js, npm, docker, docker compose 버전과 RAM 용량은 다음과 같이 �
 [Hedera-Local-Node] INFO (StopState) [✔︎] Hedera Local Node was stopped successfully.
 ```
 
-> 참고로 필자는 여기서 에러가 나 몇시간째 재시작이 되지 않았는데,, <br>
+> 참고로 저는 여기서 에러가 나 몇시간째 재시작이 되지 않았는데,, <br>
 > 초반 로그에서 `Local Node Working directory set to /Users/jisoo/Library/Application Support/hedera-local.` 이렇게 나오는 working directory를 지우고, <br>
 > image와 container까지 전부 삭제한 뒤 다시 `hedera start`를 하니 정상적으로 작동되었습니다.
 {: .prompt-tip}
@@ -354,7 +354,7 @@ function set_message(string memory message_) public {
 
 > 여기서 주의해야할 점은, 문자열로 작성해야하는 **함수명**과 **매개변수 타입**에 유의해야 합니다. <br>
 > **int32일 경우 `.addInt32`로**, **uint128일 경우, `.addUint128`로** 타입에 잘 맞게 매개변수를 설정해주어야 합니다. <br>
-> ~~왜이렇게 당연한 소리를 하냐구요? 필자는 당연한 걸 놓쳐 n시간을 헤맸습니다!~~
+> ~~왜이렇게 당연한 소리를 하냐구요? 저는 당연한 걸 놓쳐 n시간을 헤맸습니다!~~
 {: .prompt-warning}
 
 이 트랜잭션 역시도 `client`로 실행하고, receipt를 확인하면 `status` 상태를 확인할 수 있습니다.

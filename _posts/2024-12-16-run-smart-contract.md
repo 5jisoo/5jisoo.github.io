@@ -54,7 +54,7 @@ contract hello{
 
 먼저, 미리 만들어둔 사설 네트워크의 콘솔에 접속한다.
 
-> 필자는 포트가 다른 프로세스와 겹쳐 임시로 30000으로 설정하였다.
+> 저는 포트가 다른 프로세스와 겹쳐 임시로 30000으로 설정하였습니다.
 
 ```shell
 geth --datadir cslab --port 30000 --nodiscover console
