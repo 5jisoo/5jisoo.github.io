@@ -37,12 +37,13 @@ social:
   name: Jisoo Oh
   email: 56earls@gmail.com # change to your email address
   links:
-    - https://www.linkedin.com/in/hihello-lucy 
-    - https://github.com/5jisoo 
+    - https://www.linkedin.com/in/hihello-lucy
+    - https://github.com/5jisoo
 
 # Site Verification Settings
 webmaster_verifications:
   google: PBZkIkkaKaYJYhRC3gSlq3OazP6ccL-L0UmstvlEC0E
+  naver: e936040c6c99f9706783627f099c024d75dbcdc8
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
