@@ -5,7 +5,7 @@ order: 4
 ---
 
 
-## Hi there, I'm Lucy (Jisoo)! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hi there, I'm Lucy (Jisoo)!
 
 ### 🔍 Interest
 - Spring Boot
@@ -39,7 +39,7 @@ order: 4
     <tr> <!-- project -->
       <td>2023.3 -</td>
       <td>
-        <img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/ed632e34-eb9d-47ae-990d-79f58b1e5669"/> 
+        <img width="30" alt="pochak img" src="https://github.com/5jisoo/5jisoo/assets/96935231/ed632e34-eb9d-47ae-990d-79f58b1e5669"/> 
         <a href="https://github.com/SMWU-POCHAK/POCHAK-Server">당신의 순간, 포착!</a>
       </td>
       <td>
@@ -47,34 +47,34 @@ order: 4
       </td>
       <td>
         <a href="https://apps.apple.com/kr/app/pochak/id6502332418">
-          <img src="http://img.shields.io/badge/App%20Store-4285F4?style=flat&amp;logo=app-store&amp;link=https://apps.apple.com/kr/app/pochak/id6502332418&amp;logoColor=white" alt="app store badge">
+          App Store
         </a>
       </td>
     </tr>
     <tr> <!-- project -->
       <td>2023.9 - 2024.2</td>
       <td>
-        <img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/c3f6ac1f-c050-4852-82ec-3ceeef8b037c"/> 
+        <img width="30" alt="unibond img" src="https://github.com/5jisoo/5jisoo/assets/96935231/c3f6ac1f-c050-4852-82ec-3ceeef8b037c"/> 
         <a href="https://github.com/UniBond-jijijin/UniBond-server">청소년 희귀·난치성 질환자들을 위한 공간, UniBond</a>
       </td>
       <td>PM, Back-End Developer</td>
       <td>
         <a href="https://play.google.com/store/apps/details?id=com.unibond.jijijin">
-          <img src="http://img.shields.io/badge/Google%20Play-4285F4?style=flat&amp;logo=google-play&amp;link=https://play.google.com/store/apps/details?id=com.unibond.jijijin" alt="play store badge">
+          Play Store
         </a>
       </td>
     </tr>
     <tr> <!-- project -->
       <td>2023.12 - 2024.2</td>
       <td>
-        <img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/6bcbbf86-b326-447c-9c26-e3d5df2c4662"/> 
+        <img width="30" alt="issuetree img" src="https://github.com/5jisoo/5jisoo/assets/96935231/6bcbbf86-b326-447c-9c26-e3d5df2c4662"/> 
         <a href="https://github.com/White-Long-tailed-Tit/IssueTree-Spring">사내 이슈 관리 서비스, IssueTree
         </a>
       </td>
       <td>PM, Back-End Developer</td>
       <td>
         <a href="https://www.linkedin.com/posts/hihello-lucy_%EC%A7%80%EB%82%9C-12%EC%9B%94-%EB%A7%90%EB%B6%80%ED%84%B0-2%EC%9B%94%EA%B9%8C%EC%A7%80-%EC%A7%84%ED%96%89%EB%90%9C-%EC%88%99%EB%AA%85%EC%97%AC%EC%9E%90%EB%8C%80%ED%95%99%EA%B5%90-aws-winter-camp%EC%97%90%EC%84%9C-activity-7168994568972042240-HjFj?utm_source=share&amp;utm_medium=member_desktop">
-          <img src="http://img.shields.io/badge/LinkedIn%20Update-0e76a8?style=flat&amp;logo=linkedin" alt="linkedin badge">
+          linkedin post
         </a>
       </td>
     </tr>
@@ -101,9 +101,9 @@ Open Source Contribution Academy: Azure OpenAI SDK Proxy `(2024.7 - 2024.11)` <b
 
 ### 🔥 Contribution
 
-- https://github.com/aliencube/azure-openai-sdk-proxy/pull/249
-- https://github.com/aliencube/azure-openai-sdk-proxy/pull/244
-- https://github.com/aliencube/azure-openai-sdk-proxy/pull/314
+- [azure-openai-sdk-proxy #249](https://github.com/aliencube/azure-openai-sdk-proxy/pull/249) 
+- [azure-openai-sdk-proxy #244](https://github.com/aliencube/azure-openai-sdk-proxy/pull/244) 
+- [azure-openai-sdk-proxy #314](https://github.com/aliencube/azure-openai-sdk-proxy/pull/314) 
 
 ### 🏆 Achievements
 
