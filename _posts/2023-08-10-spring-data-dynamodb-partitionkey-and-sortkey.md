@@ -1,7 +1,7 @@
 ---
 title: Partition Key와 Sort Key를 같이 사용할 때
 date: 2023-08-10 18:20:00 +/-TTTT
-categories: [Spring, Spring Data DynamoDB]
+categories: [Project, POCHAK]
 tags: [spring, dynamodb, troubleshooting]     # TAG names should always be lowercase
 ---
 

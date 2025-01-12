@@ -1,7 +1,7 @@
 ---
 title: Spring Data DynamoDB 페이징 정리
 date: 2023-09-11 18:20:00 +/-TTTT
-categories: [Spring, Spring Data DynamoDB]
+categories: [Project, POCHAK]
 tags: [spring, dynamodb]     # TAG names should always be lowercase
 ---
 

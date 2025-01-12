@@ -1,7 +1,7 @@
 ---
 title: LocalDateTime 저장 에러
 date: 2023-08-10 18:20:00 +/-TTTT
-categories: [Spring, Spring Data DynamoDB]
+categories: [Project, POCHAK]
 tags: [spring, dynamodb, troubleshooting]     # TAG names should always be lowercase
 ---
 

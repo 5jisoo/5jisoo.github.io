@@ -1,7 +1,7 @@
 ---
 title: 도커 컨테이너 내부에서 localhost에 접근하기
 date: 2025-1-13 02:51:00 +/-TTTT
-categories: [Infra, Docker]
+categories: [Project, COASTER]
 tags: [docker, infra, springboot, troubleshooting]
 math: true
 ---

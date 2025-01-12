@@ -1,7 +1,7 @@
 ---
 title: 도커 컨테이너 실행 순서 조정하기
 date: 2025-1-13 00:20:00 +/-TTTT
-categories: [Infra, Docker]
+categories: [Project, COASTER]
 tags: [docker, infra, troubleshooting]
 math: true
 ---
