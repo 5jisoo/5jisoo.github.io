@@ -1,7 +1,7 @@
 ---
 title: GCP, Jenkins + Docker로 Spring Boot CI/CD 구축하기
 date: 2024-02-22 18:20:00 +/-TTTT
-categories: [Infra]
+categories: [Infra, CI/CD]
 tags: [gcp, cicd, infra, jenkins, docker]     # TAG names should always be lowercase
 ---
 
