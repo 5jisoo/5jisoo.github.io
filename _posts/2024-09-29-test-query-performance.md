@@ -28,7 +28,7 @@ _설정 완료!_
 
 ## 테스팅할 메소드
 
-자세한 리팩토링 과정은 [이곳](https://smwu-pochak.github.io/posts/block-querydsl/)에서 확인할 수 있습니다.
+자세한 리팩토링 과정은 [이곳](https://5jisoo.github.io/posts/block-querydsl/)에서 확인할 수 있습니다.
 
 - 기존 쿼리
 ```java
@@ -204,7 +204,7 @@ HTTP Request 정보를 다음과 같이 세팅해주었습니다.
 ## 2차 테스트를 해봅시다!
 
 > 위 쿼리를 다시 개선한 V2 쿼리를 다시 작성하였습니다! 따라서 기존 쿼리, V1 쿼리, V2 쿼리의 성능 비교를 해보도록 하겠습니다! <br>
-[자세한 내용](https://smwu-pochak.github.io/posts/block-querydsl/#join---on-%EA%B3%BC-where%EC%9D%98-%EC%84%B1%EB%8A%A5-%EC%B0%A8%EC%9D%B4)
+[자세한 내용](https://5jisoo.github.io/posts/block-querydsl/#join---on-%EA%B3%BC-where%EC%9D%98-%EC%84%B1%EB%8A%A5-%EC%B0%A8%EC%9D%B4)
 {: .prompt-info }
 
 ### 2차 테스팅 방법

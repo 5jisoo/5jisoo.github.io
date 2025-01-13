@@ -86,7 +86,7 @@ UFW는 데비안 계열 및 다양한 리눅스 환경에서 작동되는 사용
 
 운영 서버에서는 포트 관리를 위해 http(80), https(443), ssh(22)번을 열어주었는데, 여기서 제 착각이 있었습니다.
 
-DNS 설정 당시, [이렇게](https://smwu-pochak.github.io/posts/dns-setting/#ubuntu-%EB%B0%A9%ED%99%94%EB%B2%BD-%ED%99%95%EC%9D%B8) 방화벽 설정을 해주었는데, 생각해보니 MySQL 서버 연결을 위해 3306 포트가 필요하다는 생각을 못했던 것입니다.. 🤦‍♀️🤦‍♀️
+DNS 설정 당시, [이렇게](https://5jisoo.github.io/posts/dns-setting/#ubuntu-%EB%B0%A9%ED%99%94%EB%B2%BD-%ED%99%95%EC%9D%B8) 방화벽 설정을 해주었는데, 생각해보니 MySQL 서버 연결을 위해 3306 포트가 필요하다는 생각을 못했던 것입니다.. 🤦‍♀️🤦‍♀️
 
 <br>
 

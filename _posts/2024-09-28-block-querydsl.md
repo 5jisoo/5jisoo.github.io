@@ -142,9 +142,9 @@ private BooleanExpression checkLoginMemberBlockOwnerOrTaggedMember(final Long lo
 
 ## 성능 비교 및 마무리
 
-결과적으로 개선이 되긴 되었지만, 드라마틱하게 실행 시간이 줄어들진 않았습니다. [이 곳](https://smwu-pochak.github.io/posts/test-query-performance/)에서 자세한 내용을 확인할 수 있습니다!
+결과적으로 개선이 되긴 되었지만, 드라마틱하게 실행 시간이 줄어들진 않았습니다. [이 곳](https://5jisoo.github.io/posts/test-query-performance/)에서 자세한 내용을 확인할 수 있습니다!
 
-또한 Querydsl 도입 이후, CustomRepository를 테스팅하는 방법을 [이 곳](ttps://smwu-pochak.github.io/posts/testing-repository/)에서 정리하였습니다!
+또한 Querydsl 도입 이후, CustomRepository를 테스팅하는 방법을 [이 곳](ttps://5jisoo.github.io/posts/testing-repository/)에서 정리하였습니다!
 
 # [10/2 내용 추가] 리팩토링 V2
 
@@ -177,7 +177,7 @@ return Optional.ofNullable(
 
 기존에 where 절에 포함되어 있던 `post.id.eq(postId)` 조건을 초반에 tag를 inner join할 때 on절의 조건으로 이동시켰습니다.
 
-[기존 쿼리](https://smwu-pochak.github.io/posts/block-querydsl/#%EA%B5%AC%ED%98%84-%EB%B0%A9%EC%8B%9D)의 구현방식에서 첫번째 `기준테이블인 post 테이블에 tag 테이블을 inner join` 해주는 과정에 on 조건절에 `post.id.eq(postId)` 를 추가하였습니다.
+[기존 쿼리](https://5jisoo.github.io/posts/block-querydsl/#%EA%B5%AC%ED%98%84-%EB%B0%A9%EC%8B%9D)의 구현방식에서 첫번째 `기준테이블인 post 테이블에 tag 테이블을 inner join` 해주는 과정에 on 조건절에 `post.id.eq(postId)` 를 추가하였습니다.
 
 원래 `where(post.id.eq(postId))`를 통하여 Tag와의 JOIN, Block과의 LEFT JOIN이 끝난 뒤 where문을 통해 post id를 필터링하는 방식에서 미리 join 전에 필터링을 거는 방식으로 변경하였습니다.
 
@@ -212,6 +212,6 @@ inner join의 경우, 조건을 `on`과 `where` 어디에 위치시켜도 성능
 
 ## 성능 비교
 
-기존, 개선한 V1, V2 쿼리 각각의 성능 측정은 [이 글](https://smwu-pochak.github.io/posts/test-query-performance/#2%EC%B0%A8-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%ED%95%B4%EB%B4%85%EC%8B%9C%EB%8B%A4)에서 자세히 측정하였습니다.
+기존, 개선한 V1, V2 쿼리 각각의 성능 측정은 [이 글](https://5jisoo.github.io/posts/test-query-performance/#2%EC%B0%A8-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%ED%95%B4%EB%B4%85%EC%8B%9C%EB%8B%A4)에서 자세히 측정하였습니다.
 
 근소하지만 성능 향상의 결과를 얻을 수 있었습니다.
